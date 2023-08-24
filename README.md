@@ -1,38 +1,32 @@
-### Hi there I'm BramsLF👋
-![Cover](https://github.com/Breims/Breims/assets/128324365/585b0547-3e60-4872-9daf-6836300bb51c)
-<div>
-        <h1><b>PROFILE</b></h1>
-        <p>I am a passionate and self-taught software development technology student, with a specialized focus on web development. Through independent study and career contributions, I have acquired solid knowledge in web programming languages, frameworks, front-end and back-end technologies, as well as database design. I am looking for opportunities to apply and expand my skills in a challenging and collaborative work environment.
-        </p>
-        <div>
-            <a href="https://twitter.com/BramsLF"><img src="https://img.shields.io/twitter/url?label=BramsLF&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBramsLF" alt="Twitter"></a>
-            <a href="https://www.linkedin.com/in/brayan-mercado-sanmart%C3%ADn-8a69821b1/"><img src="https://img.shields.io/twitter/url?color=blue&label=BramsLF&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrayan-mercado-sanmart%25C3%25ADn-8a69821b1%2F" alt="LinkedIn"></a>
-        </div>
-    </div>
-    <div>
-        <h2><b>Academic Formation</b></h2>
-        <ul>
-            <li><b>Food Engineer</b> - 2020</li>
-            <li><b>Software Test Processing Technician</b> - in process</li>
-            <li><b>Software Development Technology</b>- in process</li>
-        </ul>
-        <h2><b>Complementary Training</b></h2>
-        <ul>
-            <li>📊<b>Fundamentals of Data Analytics,</b> Cerralation One & Ministries of Information and Communication
-                Technologies (MinTic) - 2022</li>
-            <li>🖥️<b>Fundamentals of Software Development,</b> Microsoft and LinkedIn Learning. 2023</li>
-            <li>🪪<b>Full Stack Developer with JavaScript,</b> Platzi - 2023</li>
-            <li>📱<b>FrontEnd with React.JS</b> , Platzi - 2023</li>
-            <li>🗃️<b>Backend with Node.JS,</b>Platzi - 2023</li>
-            <li>🗃️<b>Full Stack with Next.js,</b>Platzi - 2023</li>
-        </ul>
-        <h2><b>News about me!</b></h2>
-        <ul>
-            <li>🔭 I’m currently working on an E-commerce application with React and tailwind</li>
-            <li>👯 I'm currently studying the application of JavaScript in the frontend and backend, so this is the
-                learning path for this year 2023.</li>
-            <li>🌱 I’m currently learning React.JS</li>
-            <li>💬 Ask me about Frontend</li>
-            <li>📫 How to reach me: brymsx@gmail.com</li>
-        </ul>
-    </div>
+# Hola, soy Brayan Mercado (Breim) 👋
+
+## **¿Te preguntarás, ¿quién soy?**
+
+Como Desarrollador Web, mi pasión radica en la creación de experiencias digitales excepcionales que cautivan a los usuarios. Mis habilidades se centran en lenguajes esenciales como JavaScript y TypeScript, y mi experiencia abarca una variedad de tecnologías de vanguardia, como Next.js, React, Astro y Svelte. Estas herramientas me permiten desarrollar interfaces atractivas y altamente funcionales.
+
+Mi enfoque colaborativo se evidencia en mi capacidad para integrarme sin problemas en equipos multidisciplinarios, donde aporto soluciones creativas que fusionan diseño y funcionalidad.
+
+Estoy entusiasmado por las infinitas posibilidades que el mundo del desarrollo web tiene para ofrecer, y anhelo ser parte de los proyectos que marcan la diferencia en la experiencia digital.
+
+## **Contáctame**
+
+[![Gmail](https://img.shields.io/badge/Gmail-breim.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brymsx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Mercado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brayan-mercado-sanmartin/)
+[![Twitter](https://img.shields.io/badge/Twitter-@BreimDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/BreimDev)
+
+## **Tecnologías Favoritas**
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+
+## **Formación Académica**
+- **Ingeniero de Alimentos**
+- **Tecnología en Desarrollo de Software** - 2025
+- **Técnico en Procesos de Pruebas de Software** - 2024
